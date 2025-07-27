@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brijesh T.A.</h1>
+<h1 align="center">Hi, I'm Brijesh T.A.</h1>
 
 <p align="center">
   <i>Aspiring Data Scientist • Full-Stack Developer • Cybersecurity Enthusiast</i>
